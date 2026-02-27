@@ -22,3 +22,4 @@ Analyzed 50,000+ financial transactions to identify fraudulent patterns and quan
 - **Trend Forecasting:** Identified peak fraud periods (e.g., holidays/festivals) to help the team prepare for high-risk seasons.
 
 ## 📊 Dashboard Preview
+<img width="1920" height="1200" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/43f387ee-12f4-4e38-8570-33bee00b9a87" />
